@@ -2,18 +2,12 @@
 
 # *Hola, Soy Katherin*
 
-## ⚫ Sobre Mi
+## Sobre Mi
 ***Soy una persona responsable, creativa y proactiva. Me apasiona la innovación, el aprendizaje y trabajar en equipo.
 Actualmente estoy estudiando Automatización de pruebas.***
 
-## ⚫ Skills
-Javascript, HTML, CSS...
-
-
-## 🔗 Links
-[![linkedin](www.linkedin.com/in/katherinoquendo-046807131)
-
-
+## Tecnologias
+Java, Javascript, HTML, CSS y Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
