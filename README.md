@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Me llamo Katherin Oquendo</h1>
 <h3 align="center">Soy una estudiante apasionada de QA</h3>
 
-- 🌱 Actualmente estoy estudiando **Automatización de pruebas**
+- Actualmente estoy estudiando **Automatización de pruebas**
 
 - Regularmente me gusta escribir artículos sobre [Automatización Industrial](Automatización Industrial)
 
