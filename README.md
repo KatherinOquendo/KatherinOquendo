@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src=[["https://picsum.photos/460/30](https://ibb.co/PFy6Tyy)0](https://ibb.co/PFy6Tyy)">
+  <img width="460" height="300" src= "https://ibb.co/PFy6Tyy">
 </p>
 
 
