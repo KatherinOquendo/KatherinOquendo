@@ -8,7 +8,12 @@
   <em>
    Soy una persona responsable,creativa y proactiva. Me apasiona lainnovación, el aprendizaje y trabajar en equipo. <br>
    Soy estudiante de Automatización de pruebas.
+  <br>
     
-  
+ <h2> </p> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> Sobre Mi</i></b> </h2>
+</p>
+
+
+
 
 
