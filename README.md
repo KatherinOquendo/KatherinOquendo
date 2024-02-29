@@ -4,7 +4,7 @@
 
 
 
-## 🌸 Sobre Mi
+## ⚫ Sobre Mi
 Soy una persona responsable, creativa y proactiva. Me apasiona la innovación, el aprendizaje y trabajar en equipo.
 Actualmente estoy estudiando Automatización de pruebas
 
