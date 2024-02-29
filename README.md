@@ -1,13 +1,13 @@
 <h1 align="center">Hola, Me llamo Katherin Oquendo</h1>
 <h3 align="center">Soy una estudiante apasionada de QA</h3>
 
-- 🌱 I’m currently learning **Automatización de pruebas**
+- 🌱 Actualmente estoy estudiando **Automatización de pruebas**
 
-- 📝 I regularly write articles on [Automatización Industrial](Automatización Industrial)
+- Regularmente me gusta escribir artículos sobre [Automatización Industrial](Automatización Industrial)
 
-- 💬 Ask me about **python**
+-  Podemos estudiar o hablar de **python**
 
-- 📫 How to reach me **kathe5725@gmail.com**
+- Me puedes contactar **kathe5725@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
