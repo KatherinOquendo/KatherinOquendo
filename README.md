@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="https://ibb.co/PFy6Tyy">
-</p>
-
+![Banner](https://github.com/KatherinOquendo/KatherinOquendo/assets/155676359/d678de59-fa8c-45ad-9628-fca6dea18265)
 
 
 # Project Title
