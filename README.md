@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src= ![Encabezado](https://github.com/KatherinOquendo/KatherinOquendo/assets/155676359/e05eec23-e69f-4dfb-87a8-341a8d010a31>
-</p>
-
+![Encabezado](https://github.com/KatherinOquendo/KatherinOquendo/assets/155676359/e05eec23-e69f-4dfb-87a8-341a8d010a31)
 
 # Project Title
 
