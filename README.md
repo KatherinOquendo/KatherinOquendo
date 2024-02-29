@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Me llamo Katherin Oquendo</h1>
+<h1 align="center">Hola, Me llamo Katherin Oquendo</h1>
 <h3 align="center">Soy una estudiante apasionada de QA</h3>
 
 - 🌱 I’m currently learning **Automatización de pruebas**
