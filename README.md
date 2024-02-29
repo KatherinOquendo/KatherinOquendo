@@ -1,10 +1,4 @@
-![Banner](https://github.com/KatherinOquendo/KatherinOquendo/assets/155676359/d678de59-fa8c-45ad-9628-fca6dea18265)
-
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
+![Banner](https://github.com/KatherinOquendo/KatherinOquendo/assets/155676359/3c0e80e0-33af-4a5a-8fa6-b05d90b425f7)
 
 # Hola, Soy Katherine
 
