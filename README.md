@@ -155,7 +155,7 @@ Me interesan oportunidades, proyectos y conversaciones alrededor de:
 
 📍 Colombia
 
-🔗 [LinkedIn](https://www.linkedin.com/in/katherinoquendo-046807131)
+🔗 [LinkedIn](linkedin.com/in/katherinoquendo)
 
 ---
 
