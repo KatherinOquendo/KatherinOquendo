@@ -5,7 +5,7 @@
     width="100%"
   />
 </p>
----
+
 
 🎯 Soy una QA con formación en Automatización Industrial, enfoque en aseguramiento de calidad en entornos ágiles, y aplicación de método e inteligencia artificial como amplificadores de calidad.
 
