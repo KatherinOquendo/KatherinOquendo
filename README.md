@@ -1,8 +1,9 @@
-![Banner](https://github.com/KatherinOquendo/KatherinOquendo/assets/155676359/3c0e80e0-33af-4a5a-8fa6-b05d90b425f7)
-
-<h1 align="center">Hola, soy Katherin </h1>
 <p align="center">
-  QA Engineer | Testing + Automatización | Método + IA aplicada a QA
+  <img
+    src="./assets/katherin-oquendo-banner.png"
+    alt="Katherin Oquendo — Quality Engineering, IA aplicada y automatización agéntica"
+    width="100%"
+  />
 </p>
 
 ---
